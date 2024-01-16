@@ -1,0 +1,7 @@
+GET http://localhost:3001/api/persons/65689c0ea01552f70bcd8d99
+Content-Type: application/json
+
+{
+    "name": "Liisa Marttinen",
+    "number": "999999"
+}
